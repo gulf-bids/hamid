@@ -1,5 +1,4 @@
-/*
-Error: Undefined variable: "$dip".
+
         /* Start About Us Area css
 ============================================================================================ */
 .about_area {
@@ -537,4 +536,3 @@ fatal error: parse error: failed at `C:/Devkit/Ruby23/lib/ruby/gems/2.3.0/gems/s
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$dip\".\A         on line 234 of href="https://rawcdn.githack.com/gulf-bids/hamid/7c707329f63fb7686ec37ad17a5ceb366d806f12/_home.scss\A"         from line 54 of href="https://rawcdn.githack.com/gulf-bids/hamid/7c707329f63fb7686ec37ad17a5ceb366d806f12/style.scss"; }
